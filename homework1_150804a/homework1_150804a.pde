@@ -30,6 +30,7 @@ void draw(){
   fill(6,77,132);
   rect(80,310,80,300);//building1
   
+  
   fill(251,244,152);
   rect(90,210,30,30);//window 1
   rect(90,250,30,30);//window 2
